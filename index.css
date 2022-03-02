@@ -87,7 +87,6 @@
 #about h1 {
     font-family: 'Lobster', cursive;
     margin-bottom: 2rem;
-    padding-bottom: 2rem;
 }
 
 #para1 {
@@ -95,6 +94,7 @@
     padding: 2rem 1rem;
     border-radius: 25px;
     margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
 #me-img {
@@ -103,7 +103,7 @@
 
 #box2 img {
     height: 50%;
-    width: 50%;
+    width: 60%;
     border: 2px solid #191D32;
 }
 
@@ -171,6 +171,7 @@
 
 #box3 p {
     font-family: 'Lobster', cursive;
+    padding-bottom: 20px;
 }
 
 #box3 #row {
