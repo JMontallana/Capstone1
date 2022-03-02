@@ -128,7 +128,7 @@
 
 .skills {
     border: 2px solid #191D32;
-    padding: 2px;
+    padding: 0 2px;
     background-color: #FC7A57;
 }
 
@@ -235,6 +235,10 @@
      background-color: #282F44;
      text-align: center;
      padding-top: 15px;
+ }
+
+ footer p {
+     font-family: 'Lobster', cursive;;
  }
 /* section4 */
 
