@@ -75,27 +75,26 @@
 
 #box2 {
     padding-bottom: 5rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
 }
 
 #about {
     text-align: center;
     padding-top: 5rem;
+    padding-bottom: 4rem;
     color: #FC7A57;
 }
 
 #about h1 {
     font-family: 'Lobster', cursive;
     margin-bottom: 2rem;
+    padding-bottom: 2rem;
 }
 
 #para1 {
     background-color: aliceblue;
-    margin-top: 2rem;
-    padding: 2rem 2rem;
+    padding: 2rem 1rem;
     border-radius: 25px;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
 }
 
 #me-img {
@@ -103,8 +102,8 @@
 }
 
 #box2 img {
-    height: 350px;
-    width: 350px;
+    height: 50%;
+    width: 50%;
     border: 2px solid #191D32;
 }
 
@@ -118,7 +117,7 @@
 }
 
 #box2 h2 {
-    margin-right: 20px;
+    padding-right: 5px;
     padding-bottom: 1rem;
 }
 
@@ -149,7 +148,9 @@
 
 #box3 {
     padding-bottom: 5rem;
+    
 }
+
 #box3 h1 {
     padding: 5rem 2rem 3rem 2rem;
     text-align: center;
@@ -160,12 +161,35 @@
 #box3 h3 {
     text-align: center;
     color: aliceblue;
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+#box3 h4 {
+    font-family: 'Lobster', cursive;
+    padding-top: 5px;
+}
+
+#box3 p {
+    font-family: 'Lobster', cursive;
 }
 
 #box3 #row {
     background-color: aliceblue;
     padding: 2rem 2rem;
     margin-bottom: 3rem;
+    border: 1px solid #FC7A57;
+}
+
+#box3 #carousel1 {
+    border: 1px solid #FC7A57;
+}
+#box3 #carousel2 {
+    border: 1px solid #FC7A57;
+    
+}
+#box3 #carousel3 {
+    border: 1px solid #FC7A57;
+    
 }
 /* end of section3 */
 
